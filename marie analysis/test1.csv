@@ -1,0 +1,385 @@
+Age,Gender,Educationlevel,Householdsize,Farmsize,Experience,Yield,Marketprice,Fertilizerusage,Typeoffertilizer,Fertilizerfrequency,Fertilizerquantity,Usepesticides,Pesticidefrequency,inputsource,Q16_other.Pleasespecify,Trainingaccess,Extensionvisits,Useirrigation,Accessedloan,Loanamount,Coopmember,Laborsource,Labornumber,Coffeemarket,Marketdistance,Pricesatisfaction,Farmingchallenges,Highcosts,Poormarketacc,Lowcoffeepric,climate_change,low_technique,pests_deseases,others,specify,interventions,comments,Distrists,Fertilizerusage 
+67,1,1,3,2.0,5,45.0,11000,Yes,Chemical,1,10.0,Yes,1,Purchase,,No,0,Yes,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Pests an,0,0,0,0,0,1,0,,Gharama,Iangaliw,1,1
+60,0,2,4,2.5,4,50.0,11000,Yes,Organic,3,15.0,Yes,3,Purchase,,Yes,1,No,No,0,Yes,Both,2,Off farm,1.0,Yes,Pest and,0,0,1,1,1,0,1,,Wataaala,Hamasa z,1,1
+70,0,0,2,2.0,36,29.0,11000,Yes,Organic,3,10.0,Yes,2,Purchase,,No,0,Yes,No,0,Yes,Hired la,1,Off farm,1.0,Yes,Pest and,0,1,0,0,1,0,0,,Vibarua,Hakuna m,1,1
+64,1,0,1,1.0,4,27.0,11000,Yes,Organic,2,6.0,Yes,2,Purchase,,No,0,No,No,0,Yes,Both,3,Off farm,1.0,No,High cos,1,0,0,0,0,0,0,,Chama ki,Mifereji,1,1
+39,1,2,4,1.0,1,15.0,11000,Yes,Organic,3,7.0,Yes,1,Purchase,,Yes,1,Yes,No,0,Yes,Family,1,Off farm,1.0,Yes,Low coff,1,0,1,0,0,0,0,,Upatikan,Kuwe na,1,1
+70,1,0,3,1.0,36,10.0,11000,Yes,Organic,5,10.0,Yes,3,Purchase,,No,0,Yes,No,0,Yes,Family,3,Off farm,1.0,No,Pests an,0,0,0,0,0,1,0,,,Mkopo wa,1,1
+65,1,0,4,0.5,8,15.0,11000,Yes,Organic,2,2.0,Yes,3,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,Yes,High cos,1,0,0,0,1,0,0,,Watu wal,Kahawa y,1,1
+65,1,0,1,0.5,36,60.0,11000,Yes,Organic,5,2.5,Yes,3,Purchase,,No,0,Yes,No,0,Yes,Family,1,Off farm,1.0,No,Pests an,0,0,0,0,0,1,0,,,Wapatiwe,1,1
+60,0,1,2,1.0,2,25.0,11000,Yes,Organic,3,6.0,Yes,3,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,1,0,0,0,1,1,0,,Tupewe p,Vijana w,1,1
+64,1,1,5,1.0,27,35.0,13000,Yes,Organic,2,5.0,Yes,3,Purchase,,No,0,Yes,No,0,Yes,Hired la,2,Off farm,4.0,No,Pests an,1,0,0,0,0,1,0,,Kutoa ru,Warudish,1,1
+40,1,0,5,0.5,10,10.0,13000,Yes,Organic,2,2.0,Yes,3,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,4.0,Yes,Pests an,1,0,0,0,0,1,0,,Mafunzo,Vijana w,1,1
+65,1,0,1,7.0,15,230.0,13000,Yes,Organic,2,21.0,No,0,Provided,,No,0,Yes,No,0,Yes,Family,2,Off farm,4.0,Yes,Pests an,0,0,0,0,0,1,0,,Nguvu ka,Vitendea,1,1
+85,1,0,4,2.0,42,5.0,13000,Yes,Organic,1,8.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,5,Off farm,4.0,Yes,High cos,1,0,0,0,0,1,0,,Watu was,Vijana w,1,1
+64,1,1,2,1.0,3,4.0,13000,Yes,Organic,4,3.0,Yes,1,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,4.0,No,High cos,1,0,0,0,0,1,0,,Afisa ug,Mafunzo,1,1
+54,0,0,3,1.0,3,8.0,11000,Yes,Organic,3,2.5,No,0,Purchase,,Yes,2,No,No,0,Yes,Hired la,1,Off farm,4.0,Yes,Pests an,0,0,0,0,0,1,1,Hakuna k,Utafiti,Watu wae,1,1
+78,0,0,8,1.0,36,300.0,11000,Yes,Organic,3,2.5,Yes,2,Purchase,,No,0,No,No,0,Yes,Both,2,Off farm,4.0,No,Pests an,1,0,0,0,0,1,0,,Bei iong,Vijana w,1,1
+73,1,1,3,0.5,35,300.0,13000,Yes,Organic,2,1.5,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,1,Off farm,4.0,No,High cos,1,0,0,0,1,1,0,,Bei iong,Vijana w,1,1
+61,0,0,1,2.5,5,160.0,13000,Yes,Organic,1,10.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Hired la,4,Off farm,4.0,Yes,Pests an,0,0,0,0,0,1,0,,Madawa y,Watu wap,1,1
+71,1,1,5,2.0,10,10.0,13000,Yes,Organic,1,10.0,No,0,Purchase,,Yes,1,Yes,No,0,Yes,Family,3,Off farm,1.0,No,Pests an,0,0,0,0,0,1,0,,Mashine,Wakulima,1,1
+50,1,0,4,1.0,30,5.0,13000,Yes,Organic,2,3.0,Yes,3,Purchase,,No,0,Yes,No,0,Yes,Both,4,Off farm,0.5,Yes,High cos,1,0,0,0,0,0,0,,Chama ki,Serekali,1,1
+62,0,0,2,4.0,30,3.0,13000,Yes,Organic,5,7.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,1,Off farm,0.5,No,Pests an,1,0,0,0,0,1,0,,wapewe m,Wapewe p,1,1
+70,1,0,2,1.0,30,20.0,13000,Yes,Organic,4,4.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,0.5,No,High cos,1,0,1,0,0,0,0,,Bei iong,Dawa zit,1,1
+71,0,0,5,0.5,40,14.0,13000,Yes,Organic,4,2.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Hired la,2,Off farm,0.5,Yes,High cos,1,0,0,0,0,0,1,Hawana m,Pembejeo,Pembejeo,1,1
+73,0,0,2,2.5,2,100.0,13000,Yes,Organic,4,7.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,0.5,Yes,High cos,1,0,0,0,0,0,1,Machine,Tupatiwe,Tupatiwe,1,1
+40,1,1,4,0.75,6,70.0,13000,Yes,Organic,1,2.0,No,0,Purchase,,No,0,Yes,No,0,Yes,Family,3,Off farm,3.0,No,Pests an,0,0,0,0,0,1,0,,Mafunzo,Bei iwe,1,1
+67,1,0,2,1.0,40,50.0,13000,Yes,Organic,5,5.0,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Hired la,2,Off farm,0.5,Yes,High cos,1,0,0,0,0,1,0,,Elimu it,Elimu it,1,1
+58,1,0,3,1.5,30,14.0,13000,Yes,Organic,4,6.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Both,2,Off farm,0.4,No,High cos,1,0,0,0,0,1,0,,Afis uga,Pembejeo,1,1
+60,0,0,5,0.5,20,10.0,13000,Yes,Organic,4,2.5,No,0,Purchase,,No,0,No,No,0,Yes,Both,4,Off farm,0.5,Yes,High cos,1,0,0,0,1,1,0,,Afisa ug,Pembejeo,1,1
+50,1,1,2,1.0,2,10.0,13000,Yes,Organic,4,6.0,No,0,Purchase,,No,0,No,No,0,Yes,Both,3,Off farm,0.5,No,Lack of,1,0,0,0,1,0,0,,Pembejeo,Elimu it,1,1
+55,1,0,3,1.5,20,20.0,13000,Yes,Organic,2,3.75,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,5,Off farm,2.0,No,Pests an,0,0,0,0,0,1,0,,Dawa zip,Pembejeo,1,1
+53,1,0,4,0.75,6,26.0,13000,Yes,Organic,4,3.0,No,0,Purchase,,Yes,3,No,No,0,Yes,Family,4,Off farm,2.0,No,High cos,1,0,0,0,0,1,0,,Bei iong,Bei iong,1,1
+60,0,0,3,1.0,20,30.0,13000,Yes,Organic,4,6.0,No,0,Purchase,,No,0,No,No,0,Yes,Both,3,Off farm,1.0,No,High cos,1,0,0,0,0,1,0,,Bei iong,Vijana w,1,1
+72,1,0,9,1.5,40,40.0,13000,Yes,Organic,4,7.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,1.5,Yes,High cos,1,0,0,0,0,1,0,,Pembejeo,Afisa ug,1,1
+62,1,0,3,1.0,20,20.0,13000,Yes,Organic,4,6.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Hired la,3,Off farm,0.5,Yes,High cos,1,0,0,0,0,1,0,,Afisa ug,Pembejeo,1,1
+60,0,0,4,1.0,30,40.0,13000,Yes,Organic,4,6.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,4,Off farm,1.0,No,High cos,1,0,0,0,0,1,0,,Bei iong,Bei iong,1,1
+58,0,1,3,1.5,6,40.0,13000,Yes,Organic,4,7.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,Yes,High cos,1,0,0,0,0,1,0,,Pembejeo,Pembejeo,1,1
+62,1,0,2,1.0,30,50.0,13000,Yes,Organic,4,5.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,Low coff,0,0,1,0,0,0,0,,Bei iong,Bei iong,1,1
+42,0,1,4,2.0,2,40.0,13000,Yes,Organic,4,8.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Both,3,Off farm,2.0,No,High cos,1,0,1,0,0,0,0,,Bei iong,Bei iong,1,1
+70,0,0,2,1.5,30,40.0,13000,Yes,Organic,4,7.0,No,0,Purchase,,No,0,No,No,0,Yes,Both,3,Off farm,3.0,Yes,Climate,0,0,0,1,1,0,0,,Afisa ug,Elimu it,1,1
+70,1,0,5,3.0,30,300.0,13000,Yes,Organic,5,20.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Both,5,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Bei iong,Bei iong,1,1
+52,0,1,2,0.5,6,20.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Both,3,Off farm,0.5,Yes,Lack of,0,0,0,0,1,0,0,,Elimu it,Elimu it,1,1
+58,0,0,3,0.75,6,20.0,13000,Yes,Organic,2,2.5,No,0,Purchase,,No,0,No,No,0,Yes,Both,3,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Pembejeo,Vyama vi,1,1
+60,1,0,2,1.0,10,80.0,13000,Yes,Organic,5,3.75,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,No,Low coff,1,0,1,0,0,0,0,,Bei iong,Bei iong,1,1
+47,1,2,7,2.5,7,5.0,13000,Yes,Organic,2,10.0,Yes,2,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,2.0,Yes,High cos,1,0,0,0,0,1,0,,pembejeo,Benki ya,1,1
+81,1,0,2,1.0,20,20.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Both,3,Off farm,1.0,Yes,Pests an,0,0,0,0,0,1,0,,Elimu it,Elimu it,1,1
+34,0,0,5,1.0,7,129.0,13000,Yes,Organic,1,4.0,Yes,3,Purchase,,Yes,1,Yes,No,0,Yes,Both,3,Off farm,3.0,No,Low coff,0,0,1,1,0,1,0,,Mafunzo,Hapana,1,1
+27,1,1,6,1.0,5,100.0,13000,Yes,Organic,1,3.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,1,1,1,1,1,0,,Kuwe na,Uku kuna,1,1
+22,0,1,4,0.5,2,60.0,13000,Yes,Organic,4,2.5,Yes,2,Purchase,,No,0,No,No,0,Yes,Family,5,Off farm,1.0,Yes,Climate,0,0,0,1,0,1,0,,Maafisa,Wakulima,1,1
+62,1,0,7,0.5,6,100.0,13000,Yes,Organic,2,3.0,Yes,2,Provided,,Yes,2,No,No,0,Yes,Hired la,4,Off farm,2.0,No,High cos,1,0,0,0,0,0,0,,Bei iong,Bei iong,1,1
+66,1,0,6,4.0,10,200.0,13000,Yes,Organic,3,25.0,Yes,2,Purchase,,Yes,2,No,No,0,No,Hired la,4,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Màfisa u,Kusiwe n,1,1
+80,1,1,3,1.0,30,300.0,13000,Yes,Organic,2,3.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Hired la,2,Off farm,2.0,No,Low coff,0,0,1,0,0,0,1,Kunyauka,Bei iong,Bei iong,1,1
+52,1,0,7,1.0,3,4.0,13000,Yes,Organic,1,2.0,Yes,3,Purchase,,No,0,No,No,0,Yes,Both,3,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Maafisa,Elimu zi,1,1
+55,1,0,4,1.0,40,210.0,13000,Yes,Organic,4,5.0,Yes,3,Purchase,,No,0,No,No,0,Yes,Both,4,Off farm,0.5,Yes,Lack of,0,0,0,0,1,1,0,,Elimu zi,Elimu zi,1,1
+60,0,0,1,0.75,3,1.0,13000,Yes,Organic,1,2.0,Yes,2,Purchase,,No,0,No,No,0,Yes,Both,2,Off farm,1.0,No,Low coff,1,0,1,0,1,0,0,,Bei iong,Elimu zi,1,1
+60,0,0,5,1.0,5,10.0,13000,Yes,Organic,3,4.0,Yes,3,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Bei iong,Elimu za,1,1
+58,0,0,4,0.5,3,15.0,13000,Yes,Organic,4,2.5,Yes,3,Purchase,,Yes,1,No,No,0,Yes,Both,3,Off farm,0.5,No,Low coff,1,0,1,0,1,0,0,,Elimu zi,Bei iong,1,1
+68,1,0,2,1.5,23,100.0,13000,Yes,Organic,4,5.0,Yes,3,Purchase,,No,0,No,No,0,Yes,Hired la,3,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Pembejeo,Elimu zi,1,1
+54,1,2,4,1.25,10,60.0,13000,Yes,Organic,4,3.0,Yes,2,Purchase,,Yes,1,Yes,No,0,Yes,Both,2,Off farm,2.0,No,High cos,1,0,1,1,0,0,0,,Bei iwe,Maafisa,1,1
+79,1,1,3,1.5,40,100.0,13000,Yes,Organic,4,6.0,Yes,3,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,High cos,1,0,0,0,1,0,0,,Nimeridh,Elimu zi,1,1
+70,1,1,5,6.0,40,220.0,13000,Yes,Both,3,6.0,Yes,3,Purchase,,No,0,No,No,0,Yes,Hired la,3,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Bei iong,Pembejeo,1,1
+52,1,2,10,2.0,30,100.0,13000,Yes,Organic,1,5.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,5,Off farm,3.0,No,High cos,1,0,1,0,0,1,0,,Bei ion,Bei in n,1,1
+47,1,0,6,1.0,5,50.0,13000,Yes,Organic,3,6.0,Yes,2,Provided,,Yes,3,Yes,No,0,Yes,Family,5,Off farm,0.5,Yes,High cos,1,0,1,1,1,1,0,,Kupata p,Wataalam,1,1
+60,1,0,2,0.5,8,100.0,13000,No,Organic,1,1.5,Yes,1,Provided,,Yes,2,Yes,No,0,Yes,Family,1,Off farm,3.0,No,High cos,1,0,1,1,1,0,0,,Elimu it,Upatikan,1,0
+62,1,0,7,1.5,4,120.0,13000,Yes,Organic,2,5.0,Yes,2,Purchase,,No,0,No,No,0,Yes,Family,5,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Elimu zi,Elimu zi,1,1
+39,1,1,3,3.0,6,15.0,13000,Yes,Organic,4,7.0,Yes,3,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Maafisa,Bei iong,1,1
+75,0,0,2,0.5,40,100.0,13000,Yes,Organic,2,2.5,Yes,1,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,0.5,Yes,Lack of,0,0,0,0,1,0,0,,Elimu zi,Vijana w,1,1
+45,0,0,4,1.0,5,20.0,13000,Yes,Organic,5,5.0,Yes,3,Purchase,,Yes,2,No,No,0,Yes,Family,3,Off farm,2.0,No,High cos,1,0,1,0,1,1,0,,Maafisa,Bei iong,1,1
+78,0,0,2,1.0,40,60.0,13000,Yes,Organic,2,4.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,1,Off farm,0.5,Yes,Lack of,0,0,0,0,1,0,0,,Elimu zi,Vijana w,1,1
+80,1,0,4,1.5,20,80.0,13000,Yes,Organic,2,3.0,No,0,Provided,,No,0,No,No,0,Yes,Hired la,1,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Elimu zi,Elimu zi,1,1
+46,0,1,1,3.0,5,200.0,13000,Yes,Organic,2,10.0,Yes,3,Purchase,,Yes,1,No,No,0,Yes,Both,3,Off farm,1.5,No,High cos,1,0,1,0,1,0,0,,Bei iong,Elimu zi,1,1
+83,0,0,2,0.5,40,80.0,13000,Yes,Organic,2,3.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,0.5,Yes,Lack of,0,0,0,0,1,1,0,,Maafisa,Vijana w,1,1
+68,0,0,1,0.75,10,45.0,13000,Yes,Organic,5,4.0,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,1,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Elimu zi,Elimu zi,1,1
+65,0,0,4,1.0,5,0.0,13000,Yes,Organic,3,5.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,2.0,No,High cos,1,0,0,0,0,0,1,Tumbili,Bwana sh,Elimu zi,1,1
+54,1,1,5,1.0,10,200.0,13000,Yes,Organic,5,6.0,Yes,3,Purchase,,Yes,2,No,No,0,Yes,Family,3,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Bei tuu,Elimu zi,1,1
+40,0,0,3,0.5,4,5.0,13000,Yes,Organic,4,2.5,Yes,3,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,2.0,Yes,Lack of,0,0,0,0,1,1,0,,Pembejeo,Benki zi,1,1
+56,1,0,5,1.0,3,100.0,13000,Yes,Organic,4,5.0,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,4,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Wakulima,Elimu zi,1,1
+70,1,2,2,1.5,40,100.0,13000,Yes,Organic,2,6.0,No,0,Purchase,,No,0,No,No,0,Yes,Both,3,Off farm,0.5,Yes,Lack of,0,0,0,0,1,1,0,,Maafisa,Elimu zi,1,1
+68,0,0,2,1.0,40,50.0,13000,Yes,Organic,2,3.0,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Both,3,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Bei iong,Elimu it,1,1
+76,1,0,6,1.5,40,22.0,13000,Yes,Organic,1,3.5,Yes,3,Other,Tunapewa,Yes,2,Yes,No,0,Yes,Both,3,Off farm,1.0,No,High cos,1,0,1,1,0,1,1,"Vifaa, v",Uhitaji,Maafisa,1,1
+65,1,0,4,1.0,6,45.0,13000,Yes,Organic,5,4.0,Yes,3,Other,Tunapewa,Yes,3,No,No,0,Yes,Both,3,Off farm,0.25,Yes,Lack of,0,0,0,0,1,1,0,,Elimu zi,Pembejeo,1,1
+77,1,2,5,3.0,60,400.0,13000,Yes,Organic,4,20.0,Yes,3,Purchase,,No,0,No,No,0,Yes,Both,4,Off farm,2.0,No,High cos,1,0,0,0,0,0,0,,Ruzuku n,Ni muhim,1,1
+54,1,1,7,2.45,10,168.0,13000,Yes,Organic,5,15.0,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Both,2,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Bei iong,Elimu zi,1,1
+61,0,2,4,3.0,60,30.0,11000,Yes,Organic,5,18.0,Yes,1,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,0.4,No,Low coff,0,0,1,0,0,1,1,Fuko wan,Mkulima,Afisa ug,1,1
+60,1,1,5,0.25,5,5.0,13000,Yes,Organic,4,1.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Both,3,Off farm,0.5,Yes,Lack of,0,0,0,0,1,0,0,,Elimu zi,,1,1
+67,1,0,3,0.75,10,17.0,13000,Yes,Organic,1,1.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Tupatiwe,,1,1
+79,0,0,6,0.5,0,0.0,13000,Yes,Organic,4,2.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,wakulima,wabadili,1,1
+54,0,1,4,0.75,5,48.0,13000,Yes,Organic,4,2.5,No,0,Purchase,,No,0,No,No,0,No,Both,2,Off farm,1.5,No,High cos,1,0,0,0,0,0,0,,Bei zion,Bei zion,2,1
+65,1,0,4,0.5,2,10.0,13000,Yes,Organic,4,2.0,No,0,Provided,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,0,0,0,1,0,,Ruzuku z,Ruzuku z,2,1
+48,1,1,4,0.25,2,2.0,13000,Yes,Organic,5,1.3,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,2.5,No,Other,0,0,0,0,0,0,1,Elimu zi,Elimu it,Bei zion,2,1
+65,1,1,6,2.0,2,300.0,13000,Yes,Organic,5,10.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Hired la,3,Off farm,2.0,Yes,Pests an,0,0,0,0,0,1,0,,Ruzuku z,Elimu zi,2,1
+70,1,1,1,0.5,2,0.0,13000,Yes,Organic,4,2.0,No,0,Purchase,,No,0,No,No,0,No,Family,1,Off farm,2.0,No,High cos,1,0,1,1,0,0,0,,Bei iong,Tupe eli,2,1
+54,1,1,4,0.75,6,10.0,13000,Yes,Organic,5,3.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,0,0,0,,,Watu wat,2,1
+56,1,0,3,0.75,1,100.0,13000,Yes,Organic,4,2.5,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,4,Off farm,2.0,Yes,Pests an,0,0,0,0,0,1,0,,Ruzuku z,Elimu zi,2,1
+57,1,1,6,1.5,14,300.0,13000,Yes,Organic,5,7.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Ruzuku z,Ruzuku z,2,1
+60,1,1,4,0.75,25,5.0,13000,Yes,Organic,4,3.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,Pests an,0,0,0,0,0,1,0,,Elimu it,Watu wat,2,1
+48,1,1,3,0.75,3,7.0,13000,Yes,Organic,5,3.7,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,0,0,0,0,0,,Kupewa h,Vijana i,2,1
+40,0,1,4,1.5,40,150.0,13000,Yes,Organic,2,4.0,No,0,Provided,,yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Bei iong,Elimu zi,2,1
+87,1,0,3,0.75,40,4.0,13000,Yes,Organic,2,2.0,No,0,Other,Ruzuku,No,0,No,No,0,Yes,Hired la,2,Off farm,2.0,Yes,Lack of,0,0,0,0,1,0,0,,Ruzuku i,Watu wat,2,1
+52,1,1,3,1.5,10,10.0,13000,Yes,Organic,5,7.0,No,0,Provided,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Bei iong,Elimu zi,2,1
+68,1,0,5,0.75,20,100.0,13000,Yes,Organic,4,2.5,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Family,5,Off farm,2.0,Yes,Pests an,0,0,0,0,0,1,0,,Ruzuku z,Elimu it,2,1
+52,1,0,6,1.0,15,300.0,13000,Yes,Organic,4,4.5,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Family,5,Off farm,2.0,Yes,Pests an,0,0,0,0,0,1,0,,Gharama,Elimu it,2,1
+80,1,0,3,0.75,40,15.0,13000,Yes,Organic,2,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Hired la,1,Off farm,2.0,Yes,Lack of,0,0,0,0,1,0,0,,Arisaig,Elimu it,2,1
+52,0,1,5,0.45,20,5.0,13000,Yes,Organic,2,1.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Wapate d,Wapate d,2,1
+69,0,0,5,0.5,30,300.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,6,Off farm,1.0,Yes,Pests an,0,0,0,0,0,1,0,,Ruzuku z,Elimu it,2,1
+72,1,0,3,0.75,40,25.0,13000,Yes,Organic,3,2.8,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,2.0,Yes,Lack of,0,0,0,0,1,1,1,Fuko wan,Vijana w,Elimu,2,1
+55,1,0,5,1.0,10,100.0,13000,Yes,Organic,3,4.0,No,0,Purchase,,No,0,No,No,0,No,Family,2,Off farm,3.0,Yes,High cos,1,1,0,0,1,1,0,,Elimu na,Mbegu ya,2,1
+56,1,1,2,0.75,5,10.0,13000,Yes,Organic,2,2.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,1.5,No,Lack of,0,0,0,0,1,0,0,,Vijana w,Elimu zi,2,1
+73,0,0,3,0.5,30,7.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,2,No,No,0,Yes,Both,1,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Ruzuku z,Maafisa,2,1
+35,0,1,2,1.0,10,30.0,13000,Yes,Organic,4,4.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Vijana w,Elimu zi,2,1
+58,0,1,4,0.75,7,7.0,13000,Yes,Organic,2,2.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,Low coff,0,0,1,0,0,0,0,,Tuweke m,Bei zion,2,1
+55,1,0,5,1.0,10,5.0,13000,Yes,Organic,5,4.5,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,5,Off farm,0.5,Yes,Pests an,0,0,0,0,0,1,0,,Mishe ib,Ruzuku k,2,1
+54,0,1,2,0.35,20,0.0,13000,Yes,Organic,1,0.7,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,Pests an,0,0,0,0,0,1,0,,Tupewe e,Tuweke m,2,1
+79,1,1,3,1.0,40,100.0,13000,Yes,Organic,4,4.0,Yes,1,Provided,,No,0,No,No,0,Yes,Hired la,2,Off farm,2.0,No,High cos,1,0,0,0,1,1,0,,Kubadiri,Viajana,2,1
+69,0,0,5,1.0,20,20.0,13000,Yes,Organic,5,4.5,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,5,Off farm,1.0,Yes,Pests an,0,0,0,0,0,1,0,,Ruzuku z,Elimu it,2,1
+50,0,0,6,1.0,20,20.0,13000,Yes,Organic,5,4.0,No,0,Purchase,,Yes,2,Yes,Yes,0,Yes,Family,5,Off farm,1.0,Yes,High cos,1,1,1,1,0,1,0,,Ruzuku z,Elimu it,2,1
+54,1,2,4,1.25,10,60.0,13000,Yes,Organic,4,4.0,Yes,2,Purchase,,Yes,1,Yes,No,0,Yes,Both,2,Off farm,2.0,No,High cos,1,0,0,1,1,0,0,,Bei nzur,Maafisa,2,1
+68,1,0,2,1.5,23,100.0,13000,Yes,Organic,4,6.0,Yes,2,Provided,,No,0,Yes,No,0,Yes,Family,1,Off farm,2.0,No,High cos,1,0,0,1,0,1,0,,Elimu it,Maafisa,2,1
+58,0,0,4,1.2,3,15.0,13000,Yes,Organic,2,5.2,Yes,1,Provided,,No,0,No,No,0,Yes,Family,1,Off farm,1.0,No,High cos,1,0,0,1,0,1,0,,Pembejeo,Vijana w,2,1
+76,0,1,4,2.5,50,20.0,13000,Yes,Organic,5,8.0,No,0,Purchase,,Yes,1,Yes,No,0,Yes,Family,5,Off farm,1.5,Yes,High cos,1,1,1,1,0,1,0,,Ruzuku,Miche bo,2,1
+73,1,0,2,2.0,50,30.0,13000,Yes,Organic,5,9.0,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,5,Off farm,1.0,Yes,High cos,1,1,0,1,1,0,0,,Mafunzo,Mafunzo,2,1
+60,0,0,5,1.0,5,10.0,13000,Yes,Organic,1,2.5,Yes,1,Provided,,No,0,No,No,0,Yes,Family,1,Off farm,1.0,No,High cos,1,1,0,0,1,1,0,,Pembejeo,Vijana w,2,1
+60,0,0,1,0.75,3,1.0,13000,Yes,Organic,2,2.7,Yes,2,Provided,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,High cos,1,0,1,0,1,1,0,,Maafisa,Vijana w,2,1
+64,1,0,5,1.0,40,30.0,13000,Yes,Organic,4,2.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,2.0,Yes,Poor mar,0,1,1,1,1,0,0,,Miche ib,Elimu it,2,1
+55,1,0,4,11.0,40,210.0,13000,Yes,Organic,2,25.0,No,0,Provided,,No,0,No,No,0,Yes,Both,1,Off farm,2.0,No,High cos,1,0,1,0,1,1,0,,Tupewe n,Vijana w,2,1
+52,0,0,7,1.0,3,4.0,13000,Yes,Organic,1,2.5,No,0,Provided,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,High cos,1,1,0,0,1,1,0,,Maafisa,Kahawa y,2,1
+45,1,0,3,1.0,10,5.0,13000,Yes,Organic,4,3.5,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,5,Off farm,1.0,Yes,High cos,1,1,1,1,0,1,0,,Elimu zi,Ruzuku z,2,1
+70,1,1,5,6.0,40,220.0,13000,Yes,Organic,1,4.0,No,0,Provided,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,High cos,1,0,0,1,1,1,0,,Maafisa,Vijana e,2,1
+59,0,0,3,1.0,10,100.0,13000,Yes,Organic,2,4.5,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,3,Off farm,1.0,Yes,Low coff,0,0,1,1,1,1,0,,Ruzuku k,Elimu zo,2,1
+58,1,0,2,0.75,4,20.0,13000,Yes,Organic,4,3.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,1,Off farm,2.0,Yes,High cos,1,1,1,0,1,1,0,,Ruzuku z,Elimu zi,2,1
+62,1,0,7,1.5,10,100.0,13000,Yes,Organic,5,6.0,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Hired la,4,Off farm,2.0,No,High cos,1,1,1,0,0,1,0,,Elimu it,Ruzuku z,2,1
+66,1,0,6,4.0,10,5.0,13000,Yes,Organic,4,15.0,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Hired la,3,Off farm,1.0,Yes,Low coff,0,0,1,1,1,0,1,,Ruzuku z,Elimu it,2,1
+56,0,1,3,1.0,6,0.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,0,0,1,0,0,,Pembejeo,Ruzuku z,2,1
+75,1,1,3,1.0,20,10.0,13000,Yes,Organic,3,2.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Bei iong,Bei iong,2,1
+58,1,1,4,1.0,10,10.0,13000,Yes,Organic,4,3.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,Lack of,0,0,0,0,1,0,0,,Watu wao,Elimu zi,2,1
+83,1,0,2,0.75,40,30.0,13000,Yes,Organic,2,2.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,Yes,Lack of,0,0,0,0,1,0,0,,Vibarua,Tupewe a,2,1
+58,0,1,5,1.0,0,0.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Tuelimis,Tupewe e,2,1
+80,0,0,2,0.5,40,10.0,13000,Yes,Organic,4,2.4,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,2.0,Yes,Lack of,0,0,0,0,1,0,0,,Vijana w,Vijana w,2,1
+62,1,1,3,0.5,10,30.0,13000,Yes,Organic,3,2.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,2.0,No,Lack of,0,0,0,0,1,0,0,,Pembejeo,Pembejeo,2,1
+62,1,1,3,1.0,10,40.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Both,3,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Ruzuku z,Pembejeo,2,1
+60,1,0,3,0.5,30,5.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Elimu zi,Bei iong,2,1
+74,1,0,3,0.75,15,15.0,13000,Yes,Organic,2,3.5,No,0,Provided,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,No,High cos,1,0,0,0,0,1,1,Fuko wan,Ruzuku z,Elimu zi,2,1
+56,1,1,3,0.5,4,10.0,13000,Yes,Organic,3,2.5,No,0,Purchase,,Yes,2,No,No,0,No,Family,1,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Bei zion,Elimu zi,2,1
+60,0,1,4,0.75,10,10.0,13000,Yes,Organic,5,2.7,No,0,Purchase,,No,1,No,No,0,Yes,Family,2,Off farm,1.0,No,Lack of,0,0,0,0,1,1,0,,Ruzuku z,Elimu it,2,1
+65,1,0,3,0.25,10,10.0,13000,Yes,Organic,2,1.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Both,2,Off farm,0.5,Yes,Lack of,0,0,0,0,1,0,0,,Elimu zi,Ruzuku z,2,1
+45,0,1,3,2.5,6,25.0,13000,Yes,Organic,5,7.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Elimu it,Tupewe m,2,1
+36,1,1,3,0.75,2,8.0,13000,Yes,Organic,5,3.7,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,3,Off farm,1.0,No,Pests an,0,0,0,0,0,1,0,,Tipewe e,Tupatiwe,2,1
+54,1,1,5,0.5,5,20.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,No,Low coff,0,0,1,0,0,0,0,,Elimuu,Tupatiwe,2,1
+58,1,0,4,0.5,19,25.0,13000,Yes,Organic,3,1.5,No,0,Purchase,,Yes,2,No,No,0,Yes,Hired la,3,Off farm,2.0,Yes,Poor mar,0,1,1,0,0,1,0,,Ruzuku z,Pembejeo,2,1
+55,0,0,1,2.5,5,2.0,13000,Yes,Organic,5,7.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,5,Off farm,2.0,No,High cos,1,0,0,0,0,1,0,,Pembejeo,Elimu it,2,1
+68,1,1,5,0.75,4,5.0,13000,Yes,Organic,5,3.6,No,0,Purchase,,Yes,2,No,No,0,Yes,Both,2,Off farm,2.0,No,Pests an,0,0,0,0,0,1,1,Sisimizi,Elimu zi,Serikali,2,1
+80,1,0,4,0.5,25,17.0,13000,Yes,Organic,2,2.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,0.5,Yes,Lack of,0,0,0,0,1,0,0,,Vijana w,Vijana w,2,1
+78,1,0,5,0.75,20,15.0,13000,Yes,Organic,2,3.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,1,Off farm,0.5,Yes,Lack of,0,0,0,0,1,0,0,,Maafisa,Maafisa,2,1
+62,1,1,4,1.0,6,46.0,13000,Yes,Organic,3,3.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Bei iong,Vijana w,2,1
+50,0,1,5,0.75,15,20.0,13000,Yes,Organic,3,3.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Both,3,Off farm,1.0,No,High cos,1,0,0,0,1,0,0,,Mashine,Pembejeo,2,1
+62,1,1,6,1.5,8,48.0,13000,Yes,Organic,7,7.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,6,Off farm,1.0,Yes,Pests an,0,0,0,0,0,1,0,,Vijana w,Bodi ina,2,1
+48,1,0,2,0.5,20,5.0,13000,Yes,Organic,1,1.3,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,3.0,No,High cos,1,0,0,0,0,0,0,,Bwana sh,Vyama vi,2,1
+54,1,1,4,0.5,6,21.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,2.0,No,Lack of,0,0,0,0,1,0,0,,Elimu zi,Elimu zi,2,1
+72,1,0,3,0.75,30,27.0,13000,Yes,Organic,2,2.4,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Elimu zi,Elimu zi,2,1
+53,1,0,4,0.5,6,12.0,13000,Yes,Organic,5,2.6,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,4,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Pembejeo,Pembejeo,2,1
+70,0,0,2,0.75,20,20.0,13000,Yes,Organic,2,3.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Elimu zi,Vijana w,2,1
+90,1,0,5,1.0,40,67.0,13000,Yes,Organic,3,3.0,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Vijana w,Vijana w,2,1
+66,1,0,5,0.75,6,17.0,13000,Yes,Organic,5,3.7,No,0,Purchase,,Yes,2,No,No,0,Yes,Both,3,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Pembejeo,Pembejeo,2,1
+72,1,0,2,0.5,20,22.0,13000,Yes,Organic,1,1.3,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,1,Off farm,1.0,Yes,Pests an,0,0,0,0,0,1,0,,Ruzuku i,Ruzuku z,2,1
+59,1,1,3,0.5,10,25.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Pembejeo,Pembejeo,2,1
+56,1,1,4,0.75,5,5.0,13000,Yes,Organic,5,3.6,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Bei zion,Bei iong,2,1
+50,1,1,3,0.25,4,2.0,13000,Yes,Organic,2,0.7,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Bei iong,Bei iong,2,1
+80,1,0,3,1.0,30,30.0,13000,Yes,Organic,3,4.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Hired la,3,Off farm,2.0,Yes,High cos,1,0,1,1,0,1,0,,Elimu  i,Ruzuku z,2,1
+65,0,1,4,1.5,6,10.0,13000,Yes,Organic,4,5.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,0,1,0,,Bei ya k,Elimu it,2,1
+53,1,1,4,0.75,15,30.0,13000,Yes,Organic,5,3.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,0,0,1,1,0,,Elimu zi,Ruzuku z,2,1
+61,1,0,4,2.0,9,40.0,13000,Yes,Organic,4,8.0,No,0,Provided,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,0,0,1,1,0,,Ruzuku z,Elimu zi,2,1
+45,0,1,3,0.5,5,10.0,13000,Yes,Organic,2,1.5,No,0,Provided,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,0,0,1,0,0,,Ruzuku z,Tuelimis,2,1
+50,1,1,6,1.0,4,3.0,13000,Yes,Organic,2,3.0,No,0,Purchase,,No,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,0,0,1,0,0,,Bei ya k,Elimu zi,2,1
+70,1,0,4,2.0,20,30.0,13000,Yes,Organic,3,7.0,No,0,Provided,,No,1,Yes,No,0,Yes,Family,2,Off farm,0.5,No,High cos,1,0,0,0,0,1,0,,Vifaa vi,Tupatiwe,2,1
+58,0,0,5,0.75,5,10.0,13000,Yes,Organic,2,2.5,No,0,Provided,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,0,1,0,,Elimu zi,Ruzuku z,2,1
+42,1,1,3,1.0,1,15.0,13000,Yes,Organic,1,2.5,No,0,Purchase,,No,0,Yes,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,0,0,0,1,0,,Miche ya,Mafunzo,2,1
+50,0,1,4,0.5,5,6.0,13000,Yes,Organic,1,1.3,No,0,Provided,,No,0,Yes,No,0,No,Family,2,Off farm,1.0,No,High cos,1,0,0,0,0,1,0,,Tuwezesh,Pembeje,2,1
+65,1,0,3,2.0,6,30.0,13000,Yes,Organic,2,6.0,No,0,Provided,,No,0,Yes,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,0,0,1,0,0,,Mafisa k,Elimu zi,2,1
+49,0,0,7,3.0,20,250.0,13000,Yes,Organic,2,15.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,7,Off farm,3.0,No,High cos,1,0,1,0,1,1,0,,Vyama vy,Wakulima,2,1
+56,1,1,4,2.0,22,100.0,13000,Yes,Organic,2,7.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,4,On farm,0.0,Yes,High cos,1,1,0,1,0,1,0,,Serikali,Bado iza,2,1
+59,1,0,3,1.5,30,150.0,13000,Yes,Both,2,5.0,Yes,2,Purchase,,Yes,2,Yes,No,0,No,Both,5,On farm,0.0,No,High cos,1,1,1,1,0,0,0,,Pembejeo,Wakulima,1,1
+35,1,2,2,5.0,6,300.0,13000,Yes,Organic,2,25.0,Yes,2,Purchase,,Yes,2,Yes,Yes,1000000,Yes,Hired la,5,On farm,0.0,No,High cos,1,0,1,1,0,0,0,,Miche ya,pembejeo,1,1
+45,0,1,2,0.5,10,100.0,13000,Yes,Organic,1,1.3,No,0,Provided,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,1,1,0,0,,Serikali,Serikali,2,1
+54,1,1,2,0.25,18,100.0,13000,Yes,Organic,2,0.8,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,0,0,1,1,0,,Mafunzo,Mafunzo,2,1
+62,0,0,3,1.5,22,200.0,13000,Yes,Organic,2,4.0,Yes,0,Purchase,,Yes,1,Yes,No,0,Yes,Family,2,On farm,2.0,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Mafunzo,1,1
+62,1,1,3,1.0,20,10.0,13000,Yes,Organic,2,3.0,No,0,Provided,,No,0,No,No,0,Yes,Family,1,Off farm,0.5,No,High cos,1,0,1,0,0,1,0,,Pembejeo,Elimu zi,2,1
+72,0,0,2,0.75,43,100.0,13000,Yes,Organic,5,3.8,Yes,2,Provided,,Yes,2,Yes,No,0,Yes,Hired la,2,Off farm,1.5,Yes,Lack of,0,0,0,0,1,1,0,,Ruzuku y,Serikali,1,1
+60,0,0,4,0.25,10,50.0,13000,Yes,Organic,2,1.0,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Family,2,On farm,1.25,No,High cos,1,0,1,0,1,0,0,,Mafunzo,Maafisa,1,1
+58,1,0,5,1.5,6,20.0,13000,Yes,Organic,3,4.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,Low coff,0,0,1,0,1,0,0,,Bei au t,Na serek,2,1
+65,1,0,6,2.0,10,25.0,13000,Yes,Organic,3,6.0,No,0,Provided,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,0,0,1,0,0,,Tuhamasi,Tupatiwe,2,1
+50,0,1,4,0.75,5,5.0,13000,Yes,Organic,2,2.7,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,1.0,Yes,Poor mar,0,1,0,0,1,1,0,,Tupatewe,Elimu it,2,1
+62,0,1,4,0.75,10,10.0,13000,Yes,Organic,4,3.0,Yes,2,Provided,,No,0,Yes,No,0,Yes,Family,2,Off farm,1.5,No,High cos,1,0,1,0,0,1,0,,Ruzuku i,Tuongeze,1,1
+56,1,1,3,0.5,4,7.0,13000,Yes,Organic,3,1.7,Yes,3,Purchase,,Yes,2,Yes,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Mafunzo,Mafunzo,1,1
+45,0,0,2,0.35,20,0.0,13000,Yes,Organic,1,0.9,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,1.0,No,Pests an,0,0,0,0,0,1,1,Fuko zin,Watu tuz,Vijana w,2,1
+35,0,1,2,1.0,10,300.0,13000,Yes,Organic,4,4.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,1,1,0,0,1,0,,Vijana t,Elimu zi,2,1
+80,1,1,3,1.0,30,300.0,13000,Yes,Organic,2,3.0,No,0,Provided,,No,0,No,No,0,No,Family,1,Off farm,1.0,No,Low coff,0,0,1,0,0,0,1,Kunyauka,Maafisa,Vijana w,2,1
+60,1,1,5,0.25,5,15.0,13000,Yes,Organic,4,1.2,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Tupatiwe,Tupewe e,2,1
+67,1,0,3,0.75,10,17.0,13000,Yes,Organic,1,1.8,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,0.5,Yes,Lack of,0,0,0,0,1,0,0,,Elimu zi,,2,1
+45,1,0,3,0.75,4,20.0,13000,Yes,Organic,4,3.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,High cos,1,0,0,0,1,1,0,,Bei iong,Tubadiri,2,1
+48,1,1,4,0.25,2,3.0,13000,Yes,Organic,5,1.2,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,Other,0,0,0,0,0,0,1,Elimu zi,Maafisa,Elimu zi,2,1
+54,0,1,4,0.75,5,6.0,13000,Yes,Organic,4,3.2,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,Low coff,0,0,1,0,0,1,0,,Bei zion,Pembejeo,2,1
+65,1,0,4,0.75,2,10.0,13000,Yes,Organic,4,2.5,No,0,Other,Tunapewa,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,Lack of,0,0,0,0,1,1,0,,Maafisa,Elimu it,2,1
+53,1,0,4,0.5,6,12.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,Poor mar,0,1,1,0,0,1,0,,Bei ya k,Maafisa,2,1
+57,1,0,6,0.5,14,300.0,13000,Yes,Organic,1,1.3,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,2.0,No,High cos,1,1,1,0,0,1,0,,Ruzuku z,,2,1
+40,0,0,4,0.5,40,300.0,13000,Yes,Organic,2,2.3,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,0,1,0,,Bei iong,Elimu zi,2,1
+72,1,0,3,0.75,30,39.0,13000,Yes,Organic,2,2.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,Poor mar,0,1,1,0,0,1,0,,Elimu zi,Tubadiri,2,1
+58,1,1,4,0.75,7,10.0,13000,Yes,Organic,2,2.4,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,1,1,0,0,1,0,,Bei iong,Pembejeo,2,1
+76,1,0,6,1.25,40,22.0,13000,Yes,Organic,1,3.5,Yes,3,Other,Ruzuku,Yes,2,No,No,0,Yes,Both,2,Off farm,1.0,No,High cos,1,0,1,1,0,1,1,Vifaa vi,Uitaji w,Vijana w,1,1
+52,1,2,10,2.0,30,100.0,13000,Yes,Organic,1,5.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,3.0,No,High cos,1,0,1,0,0,1,0,,Bei iong,Pembejeo,2,1
+47,1,0,6,1.5,5,50.0,13000,Yes,Organic,3,5.0,Yes,2,Provided,,Yes,3,Yes,No,0,Yes,Family,2,Off farm,2.0,Yes,High cos,1,0,1,0,1,1,0,,Kupata p,Wataalam,1,1
+48,0,2,2,1.5,20,20.0,13000,Yes,Both,3,6.0,Yes,3,Purchase,,Yes,2,No,No,0,Yes,Both,3,On farm,1.5,No,High cos,1,0,1,0,0,1,0,,Bei ya k,Bei ya k,1,1
+62,1,0,7,1.5,6,100.0,13000,Yes,Organic,2,4.5,Yes,2,Provided,,Yes,2,Yes,No,0,Yes,Hired la,4,Off farm,2.0,No,High cos,1,0,0,0,0,0,0,,Vijana w,Bodi zin,1,1
+50,0,1,5,0.75,16,22.0,13000,Yes,Organic,3,3.2,Yes,3,Purchase,,Yes,1,No,No,0,Yes,Both,3,Off farm,1.0,No,High cos,1,0,0,0,1,0,0,,Pembejeo,Serikali,1,1
+55,0,0,1,0.5,5,2.0,13000,Yes,Organic,5,2.5,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,1,Off farm,1.0,No,High cos,1,0,0,0,0,1,0,,Pembejeo,Elimu zi,1,1
+64,1,0,5,1.25,40,67.0,13000,Yes,Organic,4,5.5,Yes,2,Provided,,No,0,Yes,No,0,Yes,Family,4,Off farm,2.0,Yes,Pests an,0,0,0,0,0,1,0,,Wakulima,Tacri it,1,1
+73,1,0,3,2.0,50,10.0,13000,Yes,Organic,3,6.5,Yes,3,Purchase,,Yes,2,Yes,No,0,Yes,Hired la,2,Off farm,2.0,No,Low coff,0,0,1,1,0,0,0,,Nashauri,Tuzidi k,1,1
+70,1,1,5,6.0,40,220.0,13000,Yes,Both,2,15.0,Yes,3,Purchase,,Yes,2,Yes,No,0,Yes,Hired la,5,Off farm,2.0,No,Low coff,0,0,1,0,0,0,0,,Pembejeo,Bei zion,1,1
+50,1,1,3,0.25,5,5.0,13000,Yes,Organic,2,1.2,Yes,1,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,0,0,0,,Bei iong,Bei ya k,1,1
+56,1,1,4,0.75,5,4.0,13000,Yes,Organic,5,3.8,Yes,1,Purchase,,Yes,1,No,No,0,Yes,Family,1,Off farm,1.5,No,High cos,1,0,1,0,1,0,0,,Bei iong,Bei iong,1,1
+73,1,1,4,2.5,50,200.0,13000,Yes,Organic,3,8.0,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Both,4,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Kupata m,Tupate u,1,1
+78,1,0,5,0.75,20,10.0,13000,Yes,Organic,2,3.2,Yes,1,Purchase,,Yes,1,No,No,0,No,Hired la,2,On farm,0.0,Yes,Lack of,0,0,0,0,1,0,0,,Mafunzo,Mafunzo,1,1
+59,1,0,3,1.0,10,100.0,13000,Yes,Organic,3,3.5,Yes,1,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Tupatiwe,Serikali,1,1
+80,1,0,4,0.5,25,1.0,13000,Yes,Organic,2,2.0,Yes,1,Provided,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Vijana w,Vijana w,1,1
+54,1,1,4,1.0,10,200.0,13000,Yes,Organic,1,2.5,Yes,1,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,Pests an,0,0,0,0,0,1,0,,Pembejeo,Benki zi,1,1
+65,0,0,4,1.0,5,2.0,13000,Yes,Organic,1,2.4,Yes,1,Provided,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,Lack of,0,0,0,0,1,0,0,,Elimu it,Wataalam,1,1
+68,0,0,3,1.0,40,60.0,13000,Yes,Organic,1,3.2,Yes,1,Other,Vyama vy,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,Climate,0,0,0,1,0,0,0,,Bei iong,Vijana w,1,1
+40,1,2,2,1.5,40,100.0,13000,Yes,Organic,1,3.8,Yes,1,Provided,,No,0,No,No,0,Yes,Family,2,Off farm,2.0,No,Poor mar,0,1,1,0,1,0,0,,Bei iong,Benki zi,1,1
+56,1,0,5,1.0,2,50.0,13000,Yes,Organic,1,2.7,Yes,1,Provided,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,Low coff,0,0,1,1,0,1,0,,Wawezesh,Vijana w,1,1
+40,1,0,3,0.5,4,5.0,13000,Yes,Organic,1,1.3,Yes,1,Provided,,No,0,No,No,0,Yes,Family,1,Off farm,2.0,No,Poor mar,0,1,1,1,0,0,0,,Maafisa,Elimu it,1,1
+80,0,0,5,1.0,60,100.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,4,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Mafunzo,2,1
+54,0,1,4,0.5,27,43.0,13000,Yes,Organic,3,1.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Watu wat,2,1
+56,1,0,2,0.5,23,25.0,13000,Yes,Organic,2,2.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Bei iong,Maafisa,2,1
+86,0,0,3,0.5,55,40.0,13000,Yes,Organic,2,1.8,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,0.5,Yes,Lack of,0,0,0,0,1,1,0,,Fuko wan,Vijana w,2,1
+85,0,0,2,1.0,58,50.0,13000,Yes,Organic,2,3.5,No,0,Purchase,,No,0,No,No,0,Yes,Both,3,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Tuhamasi,2,1
+62,1,0,4,0.25,26,17.0,13000,Yes,Organic,5,1.3,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Tupatiwe,2,1
+72,0,0,2,1.0,48,48.0,13000,Yes,Organic,5,5.0,No,0,Provided,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.5,Yes,Lack of,0,0,0,0,1,1,0,,Wakulima,Vijana w,2,1
+80,1,0,3,1.5,52,128.0,13000,Yes,Organic,5,7.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Mafunzo,2,1
+65,1,0,3,1.0,5,10.0,13000,Yes,Organic,5,4.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Wakulima,Maafisa,2,1
+70,1,0,3,0.75,56,48.0,13000,Yes,Organic,3,3.3,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Maafisa,Elimu zi,2,1
+82,1,0,3,1.5,60,228.0,13000,Yes,Organic,5,7.4,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Elimu it,2,1
+47,1,1,4,0.5,15,55.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Tupatiwe,Pembejeo,2,1
+85,1,0,3,0.5,56,105.0,13000,Yes,Organic,2,1.8,No,0,Provided,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.5,Yes,Lack of,0,0,0,0,1,1,0,,Ruzuku z,Vijana w,2,1
+76,1,0,2,0.5,42,48.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,1,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Tupatiwe,Elimu it,2,1
+56,0,0,1,0.5,27,65.0,13000,Yes,Organic,1,1.3,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,1.5,No,High cos,1,0,1,0,1,1,0,,Bei iong,Tupatiwe,2,1
+86,1,0,4,1.0,45,228.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.5,Yes,Lack of,0,0,0,0,1,0,0,,Mafunzo,Maafisa,2,1
+77,0,0,2,0.25,45,39.0,13000,Yes,Organic,2,1.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,1.3,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Maafisa,2,1
+54,1,1,5,1.0,19,55.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,4,Off farm,1.5,No,High cos,1,0,1,0,1,1,0,,Wakulima,Pembejeo,2,1
+63,0,0,2,0.25,31,46.0,13000,Yes,Organic,4,8.0,No,0,Provided,,Yes,1,No,No,0,Yes,Family,1,Off farm,1.5,Yes,Lack of,0,0,0,0,1,1,0,,Tunatama,Tuzidi k,2,1
+35,1,1,4,1.0,5,10.0,13000,Yes,Organic,6,6.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Family,3,Off farm,1.5,No,High cos,1,0,1,0,1,1,0,,Vijana t,Vijana t,2,1
+48,1,1,6,0.25,16,13.0,13000,Yes,Organic,3,1.1,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.5,No,High cos,1,0,1,0,1,1,0,,Pembejeo,Maafisa,2,1
+51,1,1,3,0.5,18,20.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Bei iong,Mafunzo,2,1
+46,0,1,4,1.0,11,48.0,13000,Yes,Organic,5,7.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,No,Lack of,0,0,0,0,1,1,0,,Tupatiwe,Tupatiwe,2,1
+62,1,0,4,0.75,25,46.0,13000,Yes,Organic,5,3.7,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Pembejeo,Mafunzo,2,1
+58,0,0,2,0.5,21,55.0,13000,Yes,Organic,4,2.3,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,1,Off farm,1.0,No,Lack of,1,0,1,0,1,1,0,,Maafisa,Bei iong,2,1
+56,0,0,3,1.5,19,45.0,13000,Yes,Organic,5,7.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Tupatiwe,Elimu zi,2,1
+60,1,0,2,0.75,27,39.0,13000,Yes,Organic,3,3.2,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Bei iong,Elimu it,2,1
+45,0,1,4,1.0,13,48.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Tupatiwe,Mafunzo,2,1
+77,1,0,2,0.5,38,55.0,13000,Yes,Organic,3,1.5,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Vijana w,Mafunzo,2,1
+76,1,0,3,1.5,40,56.0,13000,Yes,Organic,5,7.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Tupatiwe,Mafunzo,2,1
+81,0,0,2,2.5,40,100.0,13000,Yes,Organic,5,15.0,No,0,Purchase,,No,0,No,No,0,Yes,Both,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Tupatiwe,Vijana w,2,1
+70,1,0,7,1.5,27,50.0,13000,Yes,Organic,5,7.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Vijana w,Elimu zi,2,1
+76,0,0,3,0.5,28,25.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Maafisa,Mafunzo,2,1
+80,1,0,3,0.5,43,39.0,13000,Yes,Organic,5,2.4,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Mafunzo,Tuzidi k,2,1
+54,1,0,3,0.25,19,15.0,13000,Yes,Organic,3,1.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Pembejeo,Mafunzo,2,1
+59,1,0,3,0.5,12,5.0,13000,Yes,Organic,3,1.8,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,2.0,No,High cos,1,0,0,0,1,1,0,,Maafisa,Elimu zi,2,1
+65,1,1,2,1.0,30,38.0,13000,Yes,Organic,2,3.0,No,0,Purchase,,Yes,1,No,Yes,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Bei iong,Bei iong,2,1
+75,1,0,3,2.5,30,48.0,13000,Yes,Organic,3,12.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,On farm,0.0,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Mafunzo,2,1
+85,1,2,2,1.5,40,57.0,13000,Yes,Organic,2,4.5,Yes,2,Purchase,,Yes,1,Yes,No,0,Yes,Hired la,2,Off farm,2.0,No,High cos,1,0,0,0,1,1,0,,Miche ya,Tactics,2,1
+60,0,0,2,0.5,20,12.0,13000,Yes,Organic,4,2.4,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,0,0,1,0,0,,Bei iong,Mafunzo,2,1
+78,1,0,3,0.75,40,22.0,13000,Yes,Organic,3,2.8,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Pests an,0,0,0,0,0,1,0,,Vijana w,Pembejeo,1,1
+75,1,0,5,0.5,42,16.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Pests an,0,0,0,0,0,1,0,,Vijana w,Maafisa,1,1
+62,1,0,3,1.0,20,48.0,13000,Yes,Organic,3,3.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Pembejeo,Pembejeo,2,1
+65,1,0,3,3.5,25,128.0,13000,Yes,Organic,6,18.0,No,0,Purchase,,Yes,2,No,No,0,Yes,Both,5,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Pembejeo,Vijana w,2,1
+81,1,0,3,2.5,50,200.0,13000,Yes,Organic,3,13.0,No,0,Purchase,,Yes,1,No,No,9,Yes,Both,4,Off farm,2.0,Yes,Pests an,0,0,0,0,0,1,0,,Vijana w,Vijana w,2,1
+80,1,0,2,0.5,40,15.0,13000,Yes,Organic,4,2.0,No,0,Provided,,No,0,No,No,0,Yes,Hired la,2,Off farm,0.5,Yes,Pests an,0,0,0,0,0,1,0,,Tuelimis,Maafisa,2,1
+56,0,0,2,0.5,30,7.0,13000,Yes,Organic,3,1.8,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Bei iong,Bei iong,2,1
+64,0,1,3,0.5,10,20.0,13000,Yes,Organic,4,2.4,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Pembejeo,Pembejeo,2,1
+62,1,0,3,0.75,20,32.0,13000,Yes,Organic,3,2.7,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Bei iong,Bei iong,2,1
+36,1,1,4,1.0,2,50.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,0,1,0,,Tupatiwe,Vijana t,2,1
+52,0,1,3,0.5,20,20.0,13000,Yes,Organic,3,1.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.5,No,High cos,1,0,1,0,0,1,0,,Tupatiwe,Maafisa,2,1
+66,1,0,4,0.25,20,20.0,13000,Yes,Organic,3,1.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.5,Yes,Pests an,0,0,0,0,0,1,0,,Tupatiwe,Tupatiwe,2,1
+70,0,0,2,0.5,50,100.0,13000,Yes,Organic,5,2.5,No,0,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Vijana w,Tupatiwe,2,1
+50,1,1,3,1.0,20,100.0,13000,Yes,Organic,4,3.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,0.5,No,High cos,1,0,1,0,1,0,0,,Tupatiwe,Tupatiwe,2,1
+66,1,0,4,1.0,20,100.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,4,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Tacri it,Bodi ya,2,1
+58,1,0,4,1.0,20,67.0,13000,Yes,Organic,5,4.5,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Pembejeo,Pembejeo,2,1
+75,0,0,2,0.5,40,25.0,13000,Yes,Organic,3,1.5,No,0,Purchase,,No,0,No,No,0,Yes,Family,1,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Tupatiwe,Vijana w,2,1
+73,1,0,4,1.0,20,55.0,13000,Yes,Organic,5,5.0,No,0,Purchase,,No,0,No,No,0,Yes,Family,3,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Maafisa,Maafisa,2,1
+65,1,0,1,1.0,15,40.0,13000,Yes,Organic,3,4.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,1,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Bei iong,Bei iong,2,1
+66,1,0,2,1.0,26,26.0,13000,Yes,Organic,5,4.5,No,0,Provided,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Maafisa,Mafunzo,2,1
+62,0,1,3,0.25,12,39.0,13000,Yes,Organic,2,0.9,No,0,Purchase,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Tupatiwe,Tupatiwe,2,1
+56,1,0,4,2.0,25,250.0,13000,Yes,Organic,4,8.0,No,0,Purchase,,Yes,1,No,No,0,Yes,Family,4,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Mafunzo,Elimu zi,2,1
+68,1,1,5,0.75,4,5.0,13000,Yes,Organic,3,3.2,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Both,2,Off farm,1.0,Yes,Pests an,0,0,0,0,0,1,0,,Pembejeo,Wataalam,1,1
+74,1,0,3,0.75,15,8.0,13000,Yes,Organic,2,2.7,Yes,2,Provided,,No,0,No,No,0,Yes,Hired la,2,Off farm,0.5,Yes,Other,0,0,0,0,0,0,1,Sisimizi,Elimu zi,Elimu zi,1,1
+60,1,0,3,0.5,30,5.0,13000,Yes,Organic,5,2.5,Yes,1,Provided,,Yes,1,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Ruzuku i,Serikali,1,1
+60,1,1,3,1.0,10,10.0,13000,Yes,Organic,5,5.0,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Both,3,Off farm,2.0,No,High cos,1,0,1,0,1,0,0,,Pembejeo,Tupunguz,1,1
+80,0,0,2,0.5,40,25.0,13000,Yes,Organic,4,2.0,Yes,1,Provided,,Yes,1,No,No,0,Yes,Hired la,2,Off farm,1.5,Yes,Lack of,0,0,0,0,1,1,0,,Vijana w,Vijana w,1,1
+64,1,0,4,0.5,20,20.0,13000,Yes,Organic,2,1.6,Yes,2,Provided,,No,0,No,No,0,Yes,Family,2,Off farm,3.0,Yes,Lack of,0,0,0,0,1,0,0,,Tuzidi k,Tuzidi k,1,1
+73,0,0,2,0.75,40,7.0,13000,Yes,Organic,2,2.5,Yes,1,Purchase,,No,0,No,No,0,Yes,Hired la,2,Off farm,0.5,Yes,Lack of,0,0,0,0,1,1,0,,Mafunzo,Mafunzo,1,1
+68,1,0,2,1.0,20,20.0,13000,Yes,Organic,2,3.5,Yes,2,Provided,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.5,No,High cos,1,0,1,0,0,0,0,,Tuongeze,Serikali,1,1
+55,1,0,7,1.0,1,5.0,13000,Yes,Organic,5,5.0,Yes,2,Provided,,Yes,1,No,No,0,Yes,Family,5,Off farm,2.5,No,High cos,1,0,1,0,0,0,0,,Bei iong,Elimu zi,1,1
+71,1,0,3,1.0,21,100.0,13000,Yes,Organic,2,3.0,Yes,2,Provided,,No,0,No,No,0,Yes,Family,2,Off farm,1.0,Yes,Climate,0,0,0,1,1,1,0,,Elimu zi,Uzuri wa,1,1
+62,1,1,2,0.5,10,10.0,13000,Yes,Organic,2,1.5,Yes,1,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,2.0,No,Lack of,0,0,0,0,1,0,0,,Pembejeo,Wakulima,1,1
+80,1,0,2,0.75,8,8.0,13000,Yes,Organic,3,2.7,Yes,1,Provided,,No,0,No,No,0,Yes,Hired la,3,Off farm,0.5,Yes,Lack of,0,0,0,0,1,1,0,,Tuongeze,Ruzuku i,1,1
+90,1,0,5,1.0,30,10.0,13000,Yes,Organic,3,3.5,Yes,2,Provided,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Ruzuku i,Tuongeze,1,1
+50,1,1,4,0.75,6,15.0,13000,Yes,Organic,5,3.7,Yes,3,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,0,0,0,,Bei iong,Tupatiwe,1,1
+54,1,2,3,1.25,10,60.0,13000,Yes,Organic,4,4.5,Yes,2,Purchase,,Yes,1,Yes,No,0,Yes,Both,2,Off farm,2.0,No,High cos,1,0,1,0,0,0,0,,Viwatili,Maafisa,1,1
+67,1,0,2,1.5,23,15.0,13000,Yes,Chemical,2,0.4,Yes,2,Purchase,,Yes,2,No,Yes,200000,No,Hired la,3,On farm,0.0,Yes,Lack of,0,0,0,0,1,0,0,,Mafunzo,Elimu zi,1,1
+44,0,1,3,1.0,5,10.0,13000,Yes,Both,2,4.0,Yes,2,Purchase,,Yes,2,No,Yes,150000,No,Hired la,3,On farm,0.0,No,High cos,1,0,0,0,0,0,0,,Pembejeo,Pembejeo,1,1
+50,0,1,5,1.0,16,16.0,13000,Yes,Organic,2,3.5,Yes,2,Purchase,,Yes,1,Yes,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Elimu zi,Elimu zi,1,1
+58,1,1,4,0.75,10,20.0,13000,Yes,Organic,4,3.5,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,1.0,Yes,Lack of,0,0,0,0,1,0,0,,Ruzuku i,Mafunzo,1,1
+59,1,1,3,1.0,6,10.0,13000,Yes,Organic,2,3.5,Yes,1,Provided,,Yes,1,Yes,Yes,50000,Yes,Family,2,Off farm,1.0,No,Climate,0,0,0,1,1,1,0,,Elimu zi,Ruzuku z,1,1
+55,0,0,5,0.75,12,8.0,13000,Yes,Organic,5,3.8,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Family,4,Off farm,1.0,Yes,Low coff,0,0,1,1,1,1,0,,Ruzuku z,Elimu it,1,1
+60,0,0,4,1.0,20,15.0,13000,Yes,Organic,2,3.5,Yes,2,Provided,,Yes,2,Yes,Yes,150000,Yes,Hired la,3,On farm,0.0,No,High cos,1,1,1,1,1,0,0,,Miche bo,Ruzuku k,1,1
+55,0,1,7,3.0,13,20.0,13000,Yes,Chemical,2,0.8,Yes,2,Provided,,Yes,3,Yes,Yes,100000,Yes,Both,5,On farm,0.0,No,Lack of,0,0,0,0,1,0,0,,Ruzuku k,Elimu it,1,1
+60,1,2,5,2.0,20,20.0,13000,Yes,Chemical,2,0.4,Yes,2,Purchase,,No,0,Yes,Yes,200000,No,Hired la,3,On farm,0.0,No,Low coff,0,0,1,0,0,1,0,,Miche bo,Elimu it,1,1
+35,1,2,3,1.0,5,15.0,13000,Yes,Chemical,1,0.1,Yes,2,Purchase,,No,0,Yes,No,0,No,Hired la,2,Off farm,1.0,No,Poor mar,0,1,0,1,0,0,0,,Ruzuku k,Elimu kw,1,1
+38,0,1,4,2.0,5,15.0,13000,Yes,Chemical,2,0.4,No,2,Purchase,,No,0,Yes,No,0,No,Hired la,2,On farm,0.0,No,Poor mar,0,1,0,1,1,1,0,,Ruzuku k,Elimu kw,2,1
+56,1,0,3,2.0,15,20.0,13000,Yes,Organic,3,7.0,Yes,2,Purchase,,Yes,2,Yes,Yes,250000,No,Hired la,2,On farm,0.0,No,High cos,1,0,1,0,0,1,0,,Ruzuku k,Elimu kw,1,1
+59,0,0,5,2.0,20,25.0,13000,Yes,Chemical,2,0.3,Yes,2,Provided,,No,0,Yes,No,0,No,Hired la,3,On farm,0.0,No,Poor mar,0,1,0,1,0,1,0,,Ruzuku k,Elimu it,1,1
+60,0,0,4,1.0,25,20.0,13000,Yes,Chemical,2,0.2,Yes,2,Purchase,,Yes,2,Yes,No,0,Yes,Hired la,3,On farm,0.0,No,Poor mar,0,1,1,0,1,0,0,,Ruzuku z,Elimi zi,1,1
+45,0,1,4,1.0,15,25.0,13000,Yes,Chemical,2,0.8,Yes,2,Purchase,,Yes,2,Yes,No,0,Yes,Hired la,3,On farm,0.0,Yes,High cos,1,1,1,1,1,1,0,,Elimu kw,Ruzuku z,1,1
+39,1,0,3,0.75,5,5.0,13000,Yes,Organic,2,2.5,Yes,2,Purchase,,Yes,1,Yes,No,0,Yes,Family,2,Off farm,0.5,No,High cos,1,0,1,0,0,0,0,,Serikali,Tupatiwe,1,1
+42,0,1,3,1.0,10,15.0,11000,Yes,Both,2,3.5,Yes,3,Purchase,,Yes,1,Yes,Yes,100000,Yes,Family,2,Off farm,1.0,No,High cos,1,0,0,0,1,0,0,,Kila kat,Mafunzo,1,1
+52,0,2,5,2.0,19,15.0,13000,Yes,Chemical,2,0.3,Yes,2,Purchase,,Yes,2,Yes,Yes,100000,No,Family,4,Off farm,1.5,Yes,Lack of,0,0,0,0,1,0,0,,Mafunzo,Mafunzo,1,1
+61,0,1,3,1.0,25,13.0,11000,Yes,Organic,2,4.0,Yes,2,Purchase,,Yes,1,Yes,No,0,Yes,Family,2,Off farm,0.5,No,High cos,1,0,1,0,0,1,0,,Tuzidi k,Elimu zi,1,1
+45,0,0,3,0.75,2,7.0,13000,Yes,Organic,1,1.8,Yes,2,Purchase,,Yes,2,Yes,Yes,70000,Yes,Family,2,On farm,0.0,No,High cos,1,0,0,0,1,1,0,,Tupewe e,Vijana w,1,1
+52,1,1,3,0.75,5,25.0,13000,Yes,Chemical,2,0.1,Yes,2,Purchase,,Yes,3,Yes,Yes,100000,Yes,Family,3,On farm,0.0,No,High cos,1,0,1,0,0,1,0,,Bei za k,Benki zi,1,1
+60,1,1,6,0.75,7,20.0,13000,Yes,Chemical,1,0.1,Yes,2,Purchase,,Yes,2,Yes,Yes,30000,Yes,Family,2,On farm,0.0,No,Poor mar,0,1,0,0,1,1,0,,Pembejeo,Upatikan,1,1
+70,0,1,7,4.0,5,128.0,13000,Yes,Chemical,2,0.6,Yes,2,Purchase,,Yes,1,Yes,Yes,50000,Yes,Family,3,On farm,0.0,Yes,High cos,1,0,1,0,0,1,0,,Maafisa,Elimu zi,1,1
+50,0,0,4,2.0,4,80.0,13000,Yes,Chemical,2,0.3,Yes,2,Purchase,,Yes,1,Yes,Yes,15000,Yes,Family,2,On farm,0.0,No,Low coff,0,0,1,1,1,1,0,,Tubadiri,Elimu it,1,1
+60,0,1,4,0.75,10,20.0,13000,Yes,Chemical,2,0.2,Yes,1,Purchase,,Yes,1,Yes,Yes,30000,Yes,Family,2,On farm,0.0,No,Low coff,0,0,1,1,0,1,0,,Elimu zi,Vijana w,1,1
+87,0,0,3,0.75,40,34.0,13000,Yes,Chemical,2,0.1,Yes,2,Purchase,,Yes,1,Yes,Yes,50000,Yes,Family,2,On farm,0.0,No,Poor mar,0,1,0,1,0,1,0,,Wakulima,Watu tuk,1,1
+79,0,0,6,0.5,4,25.0,13000,Yes,Chemical,2,0.1,Yes,2,Purchase,,Yes,2,Yes,Yes,75000,Yes,Family,2,On farm,0.0,No,Pests an,0,0,0,0,0,1,1,Yupewe r,Watu wah,Zao la k,1,1
+72,0,0,3,0.75,40,15.0,13000,Yes,Chemical,2,0.2,Yes,2,Purchase,,Yes,1,Yes,Yes,10000,Yes,Family,2,Off farm,2.0,No,Climate,0,0,0,1,1,1,0,,Afisa ug,Vijana w,1,1
+42,0,1,2,0.5,15,5.0,13000,Yes,Organic,2,1.5,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.5,No,High cos,1,0,0,0,0,1,0,,Pembejeo,Mafunzo,1,1
+77,0,0,2,0.5,42,0.5,11000,Yes,Organic,4,2.0,Yes,2,Provided,,No,0,No,No,0,Yes,Hired la,2,Off farm,1.25,Yes,Lack of,0,0,0,0,1,0,0,,Mafunzo,Vijana w,1,1
+64,1,0,4,0.5,20,10.0,11000,Yes,Organic,2,1.6,Yes,1,Provided,,No,0,No,No,0,Yes,Family,2,Off farm,0.5,No,High cos,1,0,0,0,0,0,0,,Pembejeo,Ruzuku i,1,1
+42,0,1,4,1.0,13,30.0,13000,Yes,Both,5,4.0,Yes,2,Purchase,,Yes,2,Yes,Yes,250000,Yes,Both,2,Off farm,2.0,No,High cos,1,0,0,1,0,0,0,,Elimu it,Ruzuku z,1,1
+50,0,0,8,2.0,20,35.0,13000,Yes,Both,5,2.0,Yes,2,Provided,,Yes,2,Yes,Yes,300000,Yes,Both,5,Off farm,2.0,No,High cos,1,0,0,1,1,1,0,,Miche bo,Elimu it,1,1
+66,0,1,7,2.0,30,35.0,13000,Yes,Both,4,1.8,Yes,3,Purchase,,Yes,4,Yes,Yes,150000,Yes,Hired la,4,Off farm,3.0,Yes,High cos,1,0,1,0,1,1,0,,Elimu it,Ruzuku z,1,1
+47,0,1,5,2.0,12,30.0,13000,Yes,Chemical,3,0.5,Yes,2,Purchase,,Yes,2,Yes,Yes,100000,Yes,Hired la,3,On farm,0.0,Yes,High cos,1,0,1,1,0,1,0,,Ruzuku z,Elimu it,1,1
+71,1,0,5,1.0,30,30.0,13000,Yes,Organic,5,5.0,Yes,3,Purchase,,Yes,3,Yes,No,0,Yes,Family,5,Off farm,1.0,Yes,High cos,1,0,1,0,1,1,0,,Tutafuti,Tupatiwe,1,1
+50,0,1,4,1.0,15,30.0,13000,Yes,Organic,5,4.5,Yes,2,Provided,,Yes,3,Yes,Yes,300000,Yes,Both,4,Off farm,1.0,Yes,High cos,1,0,1,1,1,1,0,,Ruzuku z,Elimu it,1,1
+30,1,1,3,1.0,3,25.0,13000,Yes,Chemical,2,0.2,Yes,2,Purchase,,No,0,Yes,Yes,50000,Yes,Both,3,Off farm,1.0,No,High cos,1,0,1,0,1,1,0,,Ruzuku z,Elimu it,1,1
+38,0,0,3,2.0,6,25.0,13000,Yes,Organic,3,6.0,Yes,3,Purchase,,Yes,4,Yes,No,0,No,Hired la,2,On farm,0.0,No,High cos,1,1,0,1,0,0,0,,Ruzuku z,Elimu it,1,1
+52,0,0,5,1.0,5,30.0,13000,Yes,Chemical,3,0.2,Yes,2,Purchase,,No,0,No,No,0,No,Hired la,3,Off farm,3.0,No,High cos,1,1,1,0,1,0,0,,Ruzuku z,Elimu it,1,1
+38,0,0,3,0.5,8,30.0,13000,Yes,Organic,3,3.5,Yes,2,Purchase,,No,0,No,No,0,No,Family,3,Off farm,1.0,No,High cos,1,1,0,1,0,1,0,,Elimu it,Ruzuku z,1,1
+43,1,1,3,2.0,30,50.0,13000,Yes,Chemical,2,0.4,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Hired la,3,On farm,0.0,No,Poor mar,0,1,0,1,1,1,0,,Ruzuku z,Elimu it,1,1
+68,0,1,5,1.0,30,30.0,13000,Yes,Organic,4,4.0,Yes,2,Purchase,,Yes,2,Yes,Yes,200000,Yes,Family,4,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Ruzuku z,Elimu it,1,1
+50,1,0,3,1.0,20,30.0,13000,Yes,Organic,5,4.5,Yes,3,Purchase,,Yes,3,Yes,Yes,150000,Yes,Both,3,Off farm,1.0,No,High cos,1,1,1,1,1,0,0,,Ruzuku z,Elimu it,1,1
+55,0,0,3,0.75,3,23.0,13000,Yes,Chemical,2,0.1,Yes,1,Purchase,,Yes,2,Yes,Yes,120000,Yes,Family,2,On farm,0.0,No,High cos,1,1,0,0,0,1,0,,Pembeo z,Vijana w,1,1
+75,0,1,4,3.0,10,110.0,13000,Yes,Chemical,2,0.6,Yes,2,Purchase,,Yes,1,Yes,Yes,30000,Yes,Both,3,On farm,0.0,No,High cos,1,0,1,0,0,1,0,,Bei ya k,Miche ya,1,1
+55,0,0,3,5.0,6,200.0,13000,Yes,Both,2,15.0,Yes,2,Purchase,,Yes,2,Yes,Yes,150000,Yes,Family,2,On farm,0.0,No,Low coff,0,0,1,1,0,1,0,,Pembejeo,Vijana w,1,1
+69,1,0,4,6.0,12,250.0,13000,Yes,Chemical,2,1.5,Yes,2,Purchase,,Yes,2,Yes,Yes,30000,Yes,Both,2,On farm,0.0,No,Poor mar,0,1,1,0,0,1,0,,Elimu zi,Bei ya k,1,1
+55,0,0,3,6.0,9,180.0,13000,Yes,Chemical,2,1.5,Yes,2,Purchase,,Yes,2,Yes,Yes,50000,Yes,Both,2,On farm,0.0,Yes,Poor mar,0,1,1,0,0,1,0,,Elimu it,Bei zion,1,1
+50,0,0,2,3.0,5,200.0,13000,Yes,Chemical,1,0.6,No,0,Provided,,Yes,1,Yes,Yes,50000,Yes,Family,1,On farm,0.0,No,High cos,1,0,1,1,0,0,0,,Maafisa,Vijana w,2,1
+80,1,1,3,9.0,13,350.0,13000,Yes,Both,2,15.0,Yes,2,Provided,,Yes,2,Yes,Yes,30000,Yes,Both,2,On farm,0.0,Yes,High cos,1,0,1,1,1,1,0,,Elimu zi,Pembejeo,1,1
+53,0,1,3,0.25,20,8.0,13000,Yes,Organic,2,0.6,Yes,1,Provided,,Yes,1,Yes,No,0,Yes,Family,3,Off farm,3.0,No,High cos,1,1,1,1,1,0,1,Kutu ya,Zao la k,Bei zibo,1,1
+50,0,0,3,0.25,1,0.0,13000,Yes,Organic,3,1.2,Yes,1,Purchase,,No,0,No,Yes,0,Yes,Family,2,Off farm,3.0,Yes,Lack of,0,0,0,0,1,1,0,,Wakulima,Miche ya,1,1
+59,1,1,3,0.75,10,0.0,13000,Yes,Organic,3,3.0,Yes,2,Provided,,Yes,1,No,Yes,50000,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,0,1,0,,Ruzuku i,Elimu zi,1,1
+50,1,1,5,0.5,5,5.0,11000,Yes,Both,2,2.0,Yes,2,Purchase,,Yes,1,Yes,Yes,100000,No,Family,4,On farm,0.0,Yes,Pests an,0,0,0,0,0,1,0,,Mafunzo,Bei ya k,1,1
+49,0,1,4,1.0,5,5.0,11000,Yes,Organic,5,5.0,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,3,Off farm,3.0,No,High cos,1,0,1,0,0,0,0,,Tupatiwe,Serikali,1,1
+86,1,0,3,0.75,43,18.0,11000,Yes,Organic,2,2.7,Yes,1,Other,Tunapewa,No,0,No,No,0,Yes,Hired la,2,Off farm,1.0,Yes,Lack of,0,0,0,0,1,1,0,,Vijana w,Vibarua,1,1
+80,1,0,3,9.0,13,300.0,13000,Yes,Both,2,15.0,Yes,2,Provided,,Yes,2,Yes,Yes,30000,Yes,Family,2,On farm,0.0,Yes,High cos,1,1,1,0,0,1,0,,Elimu it,Pembejeo,1,1
+65,1,0,4,1.0,6,45.0,11000,Yes,Organic,5,4.5,Yes,2,Other,Zinapewa,No,0,Yes,No,0,Yes,Both,2,Off farm,0.25,Yes,High cos,1,0,0,0,0,0,0,,Pembejeo,Pembejeo,1,1
+74,1,1,3,2.5,50,200.0,11000,Yes,Organic,3,8.0,Yes,1,Other,Tunapewa,Yes,2,No,No,0,Yes,Both,4,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Tupate m,Ruzuku i,1,1
+60,0,1,3,1.5,36,100.0,11000,Yes,Organic,2,6.0,Yes,1,Purchase,,Yes,2,No,Yes,100000,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Pembejeo,Mafunzo,1,1
+70,0,0,3,0.5,40,2.0,13000,Yes,Organic,1,1.3,No,0,Purchase,,No,0,Yes,No,0,Yes,Hired la,1,Off farm,0.25,Yes,Lack of,0,0,0,0,1,0,0,,Mafunzo,Mafunzo,2,1
+50,1,1,3,0.5,20,5.0,13000,Yes,Organic,3,1.5,Yes,2,Purchase,,Yes,2,No,Yes,50000,Yes,Family,2,Off farm,3.0,No,High cos,1,0,1,0,0,0,0,,Pembejeo,Tunaomba,1,1
+46,1,0,4,0.5,10,5.0,11000,Yes,Organic,2,2.0,Yes,2,Purchase,,Yes,1,Yes,No,0,Yes,Family,3,Off farm,1.0,No,High cos,1,0,1,0,0,0,0,,Mafunzo,Maafisa,1,1
+32,0,1,2,0.75,1,0.0,13000,Yes,Organic,2,2.7,Yes,2,Purchase,,Yes,2,No,No,0,Yes,Family,2,Off farm,2.5,No,High cos,1,0,1,0,0,0,0,,Bei iong,Bei iong,1,1
+88,0,0,4,1.5,44,100.0,13000,Yes,Organic,2,6.5,Yes,2,Other,Tunapewa,Yes,1,No,No,0,Yes,Hired la,2,Off farm,1.5,Yes,Lack of,0,0,0,0,1,0,0,,Mafunzo,Vijana w,1,1
+50,1,0,5,1.0,19,20.0,11000,Yes,Organic,2,3.0,Yes,2,Purchase,,Yes,1,Yes,Yes,50000,Yes,Family,4,Off farm,1.5,No,High cos,1,0,1,0,1,1,0,,Tupatiwe,Mafunzo,1,1
+69,1,1,3,5.0,6,150.0,13000,Yes,Both,1,7.0,Yes,2,Purchase,,Yes,1,Yes,Yes,20000,Yes,Both,2,On farm,0.0,No,High cos,1,1,1,0,0,1,1,Fuko wan,Pembejeo,Elimu it,1,1
+55,1,1,2,1.5,15,15.0,13000,Yes,Organic,3,4.5,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,1.0,No,High cos,1,0,0,0,1,1,0,,Wakulima,Tacri it,1,1
+70,0,1,2,3.0,6,250.0,13000,Yes,Both,1,7.0,Yes,1,Purchase,,Yes,2,Yes,Yes,30000,Yes,Both,2,On farm,0.0,No,Poor mar,0,1,1,0,0,1,0,,Tupewe p,Wataalam,1,1
+80,1,1,5,3.0,6,300.0,13000,Yes,Both,2,6.5,Yes,2,Provided,,Yes,2,Yes,Yes,30000,Yes,Both,2,On farm,0.0,Yes,Poor mar,0,1,1,0,0,0,1,Fuko wan,Bei iong,Bei ndog,1,1
+80,0,0,3,0.75,40,25.0,11000,Yes,Organic,1,1.8,Yes,1,Other,Tunapewa,No,0,No,No,0,Yes,Hired la,2,Off farm,2.0,Yes,Lack of,0,0,0,0,1,1,0,,Vijana w,Vijana w,1,1
+75,0,1,3,4.0,9,450.0,13000,Yes,Chemical,2,0.5,Yes,2,Purchase,,Yes,1,Yes,Yes,150000,Yes,Family,2,On farm,0.0,Yes,High cos,1,1,0,0,1,0,0,,"Vifaa ,",Wataalam,1,1
+46,1,1,3,1.0,3,15.0,13000,Yes,Organic,5,5.0,Yes,2,Purchase,,Yes,1,No,No,0,Yes,Family,2,Off farm,2.0,No,High cos,1,0,1,0,0,1,0,,Pembejeo,Serikali,1,1
+60,0,0,3,2.0,6,35.0,13000,Yes,Chemical,2,0.3,Yes,2,Purchase,,Yes,1,Yes,Yes,250000,Yes,Family,1,On farm,0.0,Yes,High cos,1,1,0,0,1,0,0,,Bei iong,Elimu zi,1,1
+60,1,0,2,2.0,5,40.0,13000,Yes,Both,2,6.0,Yes,2,Purchase,,Yes,1,Yes,Yes,15000,Yes,Both,1,On farm,0.0,Yes,High cos,1,1,0,0,0,1,1,Fuko wan,Watu tua,Elimu it,1,1
+70,0,0,2,3.0,6,43.0,13000,Yes,Chemical,2,0.5,Yes,1,Purchase,,Yes,2,Yes,Yes,150000,Yes,Both,1,On farm,0.0,Yes,Poor mar,0,1,1,0,0,1,0,,Ruzuku i,Elimu it,1,1
+34,0,1,3,0.75,2,10.0,13000,Yes,Organic,5,3.8,Yes,2,Purchase,,Yes,2,No,Yes,50000,Yes,Family,2,Off farm,1.0,No,High cos,1,0,1,0,1,0,0,,Mafunzo,Wakulima,1,1
+55,0,0,2,3.0,8,50.0,13000,Yes,Chemical,2,0.6,Yes,2,Purchase,,Yes,2,Yes,Yes,50000,Yes,Both,2,On farm,0.0,Yes,Poor mar,0,1,1,0,0,1,0,,Kuwe na,Uku kuna,1,1
